@@ -160,7 +160,16 @@ nav .nav-list li a:hover{
     text-align: center;
     background-color: #efefef;
 }
+.proyectos-container{
+    
+    display: inherit;
+    width: 1280px;
+    max-width: 95%;
+    justify-content: inherit;
+    margin: 0 auto;
+    padding: 0 20px;
 
+}
 .contact-container{
     display: inherit;
     width: 1280px;
@@ -175,6 +184,14 @@ nav .nav-list li a:hover{
     color: rgba(0,0,0,0.8);
     padding-bottom: 1em;
 }
+
+#proyectos h2{
+    font-size: 3em;
+    text-align: left;
+    color: rgba(0,0,0,0.8);
+    padding-bottom: 1em;
+}
+
 .redes{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
