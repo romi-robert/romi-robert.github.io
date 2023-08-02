@@ -161,7 +161,7 @@ nav .nav-list li a:hover{
     background-color: #efefef;
 }
 .proyectos-container{
-    
+
     display: inherit;
     width: 1280px;
     max-width: 95%;
@@ -194,7 +194,7 @@ nav .nav-list li a:hover{
 
 .redes{
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     gap: 10%;
     width: 1280px;
     max-width: 95%;
