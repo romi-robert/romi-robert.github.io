@@ -154,6 +154,13 @@ nav .nav-list li a:hover{
     text-align: center;
     background-color: #efefef;
 }
+
+#proyectos{
+    padding: 95px;
+    text-align: center;
+    background-color: #efefef;
+}
+
 .contact-container{
     display: inherit;
     width: 1280px;
@@ -170,7 +177,7 @@ nav .nav-list li a:hover{
 }
 .redes{
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     gap: 10%;
     width: 1280px;
     max-width: 95%;
@@ -208,6 +215,13 @@ nav .nav-list li a:hover{
 .item img{
     max-height: 140px;
     max-width: 140px;
+    
+}
+.items2 img{
+    max-height: 140px;
+    max-width: 140px;
+    border-radius: 50%;
+    
 }
 form {
     max-width: 400px;
